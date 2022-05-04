@@ -5,7 +5,7 @@ API to quickly fetch a random quote that Prophet Muhammad said.
 
 ## Examples
 
-- Using `fetch` from JavaScript/TypeScript
+- Using `fetch` from JavaScript/TypeScript
 ```js
 const quote = await fetch("https://muhammad-quotes.abdulrahman1s.repl.co").then(r => r.text());
 console.log(quote);
