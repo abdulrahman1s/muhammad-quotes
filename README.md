@@ -31,4 +31,7 @@ Refer to the [LICENSE](LICENSE) file.
 <!-- END template/license.md -->
 
 <!-- START template/donate.md -->
+<div align="center">
+    Show some <a href="https://quran.com/en/saba/39">❤️</a> by <a href="https://ko-fi.com/abdulrahman1s">Buying me a Coffee ☕</a>
+</div>
 <!-- END template/donate.md -->
