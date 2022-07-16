@@ -5,14 +5,14 @@ API to quickly fetch a random quote that Prophet Muhammad said.
 
 ## Examples
 
-- Using `fetch` from JavaScript/TypeScript
+- Using `fetch` JavaScript/TypeScript
 ```js
 const quote = await fetch("https://muhammad-quotes.deno.dev").then(r => r.text());
 
 console.log(quote);
 ```
 
-- Using `requests` from Python
+- Using `requests` Python
 ```py
 import requests
 
@@ -21,18 +21,11 @@ quote = requests.get("https://muhammad-quotes.deno.dev").text
 print(quote)
 ```
 
-## Releted projects
-- [Dynamic bio](https://github.com/abdulrahman1s/dynamic-bio) | Update your bio with a wonderful quote
+or run a [script](https://gist.github.com/abdulrahman1s/1d2abde29da68715d5f498b8c0505168) to automate the task every 3 hours.
 
-<!-- START template/license.md -->
 #### License
 Refer to the [LICENSE](LICENSE) file.
 
-<!-- END template/license.md -->
-
-<!-- START template/donate.md -->
 <div align="center">
     Show some <a href="https://quran.com/en/saba/39">❤️</a> by <a href="https://ko-fi.com/abdulrahman1s">Buying me a Coffee ☕</a>
 </div>
-
-<!-- END template/donate.md -->
